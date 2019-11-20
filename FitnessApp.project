@@ -34,8 +34,24 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "Form2", 
-            "Form2.json"
+            "userProfile", 
+            "userProfile.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "fitnessCalculators", 
+            "fitnessCalculators.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "BMICalculator", 
+            "BMICalculator.json"
           ]
         }
       ], 
