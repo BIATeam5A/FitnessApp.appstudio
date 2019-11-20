@@ -34,8 +34,24 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "WorkoutSelect", 
-            "WorkoutSelect.json"
+            "userProfile", 
+            "userProfile.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "fitnessCalculators", 
+            "fitnessCalculators.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "BMICalculator", 
+            "BMICalculator.json"
           ]
         }
       ], 
